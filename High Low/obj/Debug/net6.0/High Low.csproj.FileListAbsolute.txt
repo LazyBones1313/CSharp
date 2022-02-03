@@ -1,0 +1,15 @@
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/bin/Debug/net6.0/High Low
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/bin/Debug/net6.0/High Low.deps.json
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/bin/Debug/net6.0/High Low.runtimeconfig.json
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/bin/Debug/net6.0/High Low.dll
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/bin/Debug/net6.0/ref/High Low.dll
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/bin/Debug/net6.0/High Low.pdb
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/High Low.csproj.AssemblyReference.cache
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/High Low.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/High Low.AssemblyInfoInputs.cache
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/High Low.AssemblyInfo.cs
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/High Low.csproj.CoreCompileInputs.cache
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/High Low.dll
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/ref/High Low.dll
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/High Low.pdb
+/Users/taylor/Documents/School stuff/Programming with Classes/CSharp/CSharp/High Low/obj/Debug/net6.0/High Low.genruntimeconfig.cache
